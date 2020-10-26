@@ -9,3 +9,7 @@ Um app de receitas
 - Barra lateral para acessar os filtros
 - Filtros para remover o tipo de alimento que não deseja (glútem, lactose, vegetariano ou vegano)
 - Página de cada receita contendo descrição, tempo de preparo e ingredientes.
+
+## Demonstração
+
+![App Demo](FoodApp.gif)
